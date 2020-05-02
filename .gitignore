@@ -1,3 +1,4 @@
 
 # Ignore these
 .DS_Store
+.gitignore
