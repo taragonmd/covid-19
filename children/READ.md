@@ -4,8 +4,18 @@ Return to [Tomás Aragón page](https://github.com/taragonmd/dph) | [COVID19 pag
 
 ## Children
 
+(2020-08) [COVID-19 in Children and the Dynamics of Infection in Families](https://pediatrics.aappublications.org/content/146/2/e20201576)
+
+(2020-08) [Transmission dynamics of SARS-CoV-2 within families with children in Greece: a study of 23 clusters](https://pubmed.ncbi.nlm.nih.gov/32767703/)
+
 [THE MISSING LINK? CHILDREN AND TRANSMISSION OF
 SARS-COV-2](https://dontforgetthebubbles.com/the-missing-link-children-and-transmission-of-sars-cov-2/) (blog)
+
+(2020-07) [Age-Related Differences in Nasopharyngeal Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Levels in Patients With Mild to Moderate Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2768952)
+
+(2020-07) [Transmission of SARS-CoV-2 by Children](https://pubmed.ncbi.nlm.nih.gov/32705983/)
+
+(2020-06) [The role of children in transmission of SARS-CoV-2: A rapid review](https://pubmed.ncbi.nlm.nih.gov/32612817/)
 
 ## Schools
 
