@@ -30,3 +30,11 @@ Meaning:  There was a temporal association between statewide school closure and 
 
 
 [COVID-19 and School Closures](https://jamanetwork.com/journals/jama/fullarticle/2769033) (Editoral)
+
+
+[Transmission of SARS-CoV-2 in Australian educational settings: a
+prospective cohort
+study](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30251-0/fulltext)
+
+[THE MISSING LINK? CHILDREN AND TRANSMISSION OF
+SARS-COV-2](https://dontforgetthebubbles.com/the-missing-link-children-and-transmission-of-sars-cov-2/) (blog)
